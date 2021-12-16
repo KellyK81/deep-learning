@@ -1,0 +1,4 @@
+# Data Description: 
+The image data of handwritten digits was taken from the Kaggle platform to analyze, model, and make predictions. It is the standard dataset used by data scientists to practice their skills. To prepare the data, it was split into two tuples: test, and train tuple. Each tuple contains labels and dataset elements. The training dataset contained sixty thousand images and the test dataset contained ten thousand images. The handwritten images consist of numbers from 0 to 9 along with multiple variations of each dataset. So, there are 10 classes of a dataset in this project. Each image shape in a dataset has a 2D dimension of 28x28 pixels. Also, each pixel value in an image is an unsigned integer in the range between 0 and 255. The value 0 represents black and 255 represents white.
+
+
